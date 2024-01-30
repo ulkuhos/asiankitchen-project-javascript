@@ -14,10 +14,10 @@
 
 
 #### Live :point_down: :point_down: 
-https:///
+https://github.com/ulkuhos/asiankitchen-project-javascript/tree/main
 
 
-![](https://github.com/ulkuhos/gif)
+![](https://github.com/ulkuhos/asiankitchen-project-javascript/blob/main/img/asiankitchen.gif)
 ---
-![](https://github.com/ulkuhos/.jpg)
+![](https://github.com/ulkuhos/asiankitchen-project-javascript/blob/main/img/menuprojectimg.jpg)
 ---
