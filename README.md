@@ -1,7 +1,7 @@
 ## asianKitchenMenu - project - with JavaScript  
  #### JavaScript ile Asian Kitchen's Menu App Projesi  
  :point_right: Bir uzak dogu restoran menusu seklinde hazırlanan bir web site projesidir.  
- :point_right:JavaScript sayesinde sayfalar arasında menulerle gezinebiliriz.
+ :point_right: JavaScript sayesinde sayfalar arasında menulerle gezinebiliriz.
 
  Asagidaki islemler projede dikkate alinmistir yapilmistir;  
 :sparkles: Elementleri secme islemleri,
